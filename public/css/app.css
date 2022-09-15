@@ -2511,6 +2511,9 @@ select {
 .p-6 {
   padding: 1.5rem;
 }
+.p-12 {
+  padding: 3rem;
+}
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -2606,6 +2609,12 @@ select {
 }
 .pl-4 {
   padding-left: 1rem;
+}
+.pt-12 {
+  padding-top: 3rem;
+}
+.pb-2 {
+  padding-bottom: 0.5rem;
 }
 .text-left {
   text-align: left;
