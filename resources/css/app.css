@@ -4,3 +4,6 @@
 
 @import 'flatpickr/dist/flatpickr.css';
 
+.event-calendar{
+    width: 1000px;
+}
