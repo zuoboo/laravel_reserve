@@ -2,9 +2,9 @@
 
 ## ダウンロード方法
 git clone
-git clone https://github.com/zuoboo/laravel_uReserve
+git clone https://github.com/zuoboo/laravel_reserve
 git clone ブランチを指定してダウンロードする場合
-git clone -b ブランチ名 https://github.com/zuoboo/laravel_uReserve
+git clone -b ブランチ名 https://github.com/zuoboo/laravel_reserve
 
 もしくはzipファイルをダウンロードしてください。
 
